@@ -1,4 +1,5 @@
                                     TASK 1
+                                   ==========
 @channel Hey everyone,
 I am sharing the google docs link which contains the details about today's tasks and tutorials. I have compiled the best resources but you are free to watch any other tutorials too.  It would take a max of 1 hr to watch out all the videos and complete the whole task.
 Link to the docs: https://docs.google.com/document/d/1S7W6Z9vR7IyG_xuDQyA8q9_XTyGZFMUuu3kMegkEvpw/edit?usp=sharing
@@ -22,6 +23,7 @@ Codewayy
 
 
                                   TASK 1 ANSWERS
+                                ==================
 Q1. What do you mean by git and GitHub?
 --Git is a piece of software that does version control system. It lets you manage and keep track of entire history that you are working on your computer.
                               Git is a particularly special tool which has a lot of advanced and sophisticated features for collaboration.First developed in 2005.
@@ -57,6 +59,7 @@ iv)Use Multiple Integration Options
 
 
                                       TASK 2
+                                    ===========
 
 @channel Hey guys, I hope you all are doing great.
 Here's the link to the google docs of a second-day task: https://docs.google.com/document/d/1IJaA0rpr6U9xtdLH-XSOuR-QxQHOUnU8jtOHLYm1km8/edit?usp=sharing
@@ -84,6 +87,8 @@ Codewayy
 
 
                                  TASK 2 ANSWERS
+                              =====================
+
 1. Share the link to the GitHub repository you have created.
 https://github.com/priyanka15-cyber/python-program.git
 
